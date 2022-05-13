@@ -1,14 +1,14 @@
 # Kaggle-House_Prices_Advanced_Regression_Technique
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-File descriptions
+> File descriptions
 
     train.csv - the training set
     test.csv - the test set
     data_description.txt - full description of each column
     sample_submission.csv - a benchmark submission 
 
-Data fields
+> Data fields
 
     SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
     MSSubClass: The building class
@@ -91,5 +91,6 @@ Data fields
     SaleType: Type of sale
     SaleCondition: Condition of sale
     
-    Metric
+   > Metric
+   
     Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. 
