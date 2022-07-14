@@ -5,8 +5,8 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
     1. train.csv - the training set
     2. test.csv - the test set
-    data_description.txt - full description of each column
-    sample_submission.csv - a benchmark submission 
+    3. data_description.txt - full description of each column
+    4. sample_submission.csv - a benchmark submission 
 
 > Data fields
 
