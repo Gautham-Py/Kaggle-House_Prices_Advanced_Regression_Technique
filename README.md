@@ -10,7 +10,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 > Data fields
 
-    SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+    1. SalePrice - the property's sale price in dollars.(target variable)
     MSSubClass: The building class
     MSZoning: The general zoning classification
     LotFrontage: Linear feet of street connected to property
