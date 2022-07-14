@@ -14,12 +14,12 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     2. MSSubClass: The building class
     3. MSZoning: The general zoning classification
     4. LotFrontage: Linear feet of street connected to property
-    LotArea: Lot size in square feet
-    Street: Type of road access
-    Alley: Type of alley access
-    LotShape: General shape of property
-    LandContour: Flatness of the property
-    Utilities: Type of utilities available
+    5. LotArea: Lot size in square feet
+    6. Street: Type of road access
+    7. Alley: Type of alley access
+    8. LotShape: General shape of property
+    9. LandContour: Flatness of the property
+    10.Utilities: Type of utilities available
     LotConfig: Lot configuration
     LandSlope: Slope of property
     Neighborhood: Physical locations within Ames city limits
