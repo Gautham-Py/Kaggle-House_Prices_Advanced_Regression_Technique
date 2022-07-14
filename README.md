@@ -11,7 +11,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 > Data fields
 
     1. SalePrice - the property's sale price in dollars.(target variable)
-    MSSubClass: The building class
+    2. MSSubClass: The building class
     MSZoning: The general zoning classification
     LotFrontage: Linear feet of street connected to property
     LotArea: Lot size in square feet
