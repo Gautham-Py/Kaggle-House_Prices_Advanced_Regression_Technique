@@ -36,10 +36,10 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     24.Exterior1st: Exterior covering on house
     25.Exterior2nd: Exterior covering on house (if more than one material)
     26.MasVnrType: Masonry veneer type
-    MasVnrArea: Masonry veneer area in square feet
-    ExterQual: Exterior material quality
-    ExterCond: Present condition of the material on the exterior
-    Foundation: Type of foundation
+    27.MasVnrArea: Masonry veneer area in square feet
+    28.ExterQual: Exterior material quality
+    29.ExterCond: Present condition of the material on the exterior
+    30.Foundation: Type of foundation
     BsmtQual: Height of the basement
     BsmtCond: General condition of the basement
     BsmtExposure: Walkout or garden level basement walls
