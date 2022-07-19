@@ -40,11 +40,11 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     28.ExterQual: Exterior material quality
     29.ExterCond: Present condition of the material on the exterior
     30.Foundation: Type of foundation
-    BsmtQual: Height of the basement
-    BsmtCond: General condition of the basement
-    BsmtExposure: Walkout or garden level basement walls
-    BsmtFinType1: Quality of basement finished area
-    BsmtFinSF1: Type 1 finished square feet
+    31.BsmtQual: Height of the basement
+    32.BsmtCond: General condition of the basement
+    33.BsmtExposure: Walkout or garden level basement walls
+    34.BsmtFinType1: Quality of basement finished area
+    35.BsmtFinSF1: Type 1 finished square feet
     BsmtFinType2: Quality of second finished area (if present)
     BsmtFinSF2: Type 2 finished square feet
     BsmtUnfSF: Unfinished square feet of basement area
