@@ -45,11 +45,11 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     33.BsmtExposure: Walkout or garden level basement walls
     34.BsmtFinType1: Quality of basement finished area
     35.BsmtFinSF1: Type 1 finished square feet
-    BsmtFinType2: Quality of second finished area (if present)
-    BsmtFinSF2: Type 2 finished square feet
-    BsmtUnfSF: Unfinished square feet of basement area
-    TotalBsmtSF: Total square feet of basement area
-    Heating: Type of heating
+    36.BsmtFinType2: Quality of second finished area (if present)
+    37.BsmtFinSF2: Type 2 finished square feet
+    38.BsmtUnfSF: Unfinished square feet of basement area
+    39.TotalBsmtSF: Total square feet of basement area
+    40.Heating: Type of heating
     HeatingQC: Heating quality and condition
     CentralAir: Central air conditioning
     Electrical: Electrical system
