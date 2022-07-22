@@ -60,26 +60,26 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     48.BsmtFullBath: Basement full bathrooms
     49.BsmtHalfBath: Basement half bathrooms
     50.FullBath: Full bathrooms above grade
-    HalfBath: Half baths above grade
-    Bedroom: Number of bedrooms above basement level
-    Kitchen: Number of kitchens
-    KitchenQual: Kitchen quality
-    TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
-    Functional: Home functionality rating
-    Fireplaces: Number of fireplaces
-    FireplaceQu: Fireplace quality
-    GarageType: Garage location
-    GarageYrBlt: Year garage was built
-    GarageFinish: Interior finish of the garage
-    GarageCars: Size of garage in car capacity
-    GarageArea: Size of garage in square feet
-    GarageQual: Garage quality
-    GarageCond: Garage condition
-    PavedDrive: Paved driveway
-    WoodDeckSF: Wood deck area in square feet
-    OpenPorchSF: Open porch area in square feet
-    EnclosedPorch: Enclosed porch area in square feet
-    3SsnPorch: Three season porch area in square feet
+    51.HalfBath: Half baths above grade
+    52.Bedroom: Number of bedrooms above basement level
+    53.Kitchen: Number of kitchens
+    54.KitchenQual: Kitchen quality
+    55.TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
+    56.Functional: Home functionality rating
+    57.Fireplaces: Number of fireplaces
+    58.FireplaceQu: Fireplace quality
+    59.GarageType: Garage location
+    60.GarageYrBlt: Year garage was built
+    61.GarageFinish: Interior finish of the garage
+    62.GarageCars: Size of garage in car capacity
+    63.GarageArea: Size of garage in square feet
+    64.GarageQual: Garage quality
+    65.GarageCond: Garage condition
+    66.PavedDrive: Paved driveway
+    67.WoodDeckSF: Wood deck area in square feet
+    68.OpenPorchSF: Open porch area in square feet
+    69.EnclosedPorch: Enclosed porch area in square feet
+    70.SsnPorch: Three season porch area in square feet
     ScreenPorch: Screen porch area in square feet
     PoolArea: Pool area in square feet
     PoolQC: Pool quality
