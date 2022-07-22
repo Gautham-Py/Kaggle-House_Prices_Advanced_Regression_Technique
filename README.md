@@ -80,9 +80,9 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     68.OpenPorchSF: Open porch area in square feet
     69.EnclosedPorch: Enclosed porch area in square feet
     70.SsnPorch: Three season porch area in square feet
-    ScreenPorch: Screen porch area in square feet
-    PoolArea: Pool area in square feet
-    PoolQC: Pool quality
+    71.ScreenPorch: Screen porch area in square feet
+    72.PoolArea: Pool area in square feet
+    73.PoolQC: Pool quality
     Fence: Fence quality
     MiscFeature: Miscellaneous feature not covered in other categories
     MiscVal: $Value of miscellaneous feature
