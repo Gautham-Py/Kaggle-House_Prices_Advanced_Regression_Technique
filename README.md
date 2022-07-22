@@ -86,10 +86,10 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     74.Fence: Fence quality
     75.MiscFeature: Miscellaneous feature not covered in other categories
     76.MiscVal: $Value of miscellaneous feature
-    MoSold: Month Sold
-    YrSold: Year Sold
-    SaleType: Type of sale
-    SaleCondition: Condition of sale
+    77.MoSold: Month Sold
+    78.YrSold: Year Sold
+    79.SaleType: Type of sale
+    80.SaleCondition: Condition of sale
     
    > Metric
    
