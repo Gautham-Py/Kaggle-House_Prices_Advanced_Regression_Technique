@@ -3,18 +3,18 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 > File descriptions
 
-    1. train.csv - the training set
-    2. test.csv - the test set
+    1. train.csv - the training set.
+    2. test.csv - the test set.
     3. data_description.txt - full description of each column
-    4. sample_submission.csv - a benchmark submission 
+    4. sample_submission.csv - a benchmark submissi.n 
 
 > Data fields
 
     1. SalePrice - the property's sale price in dollars.(target variable)
-    2. MSSubClass: The building class
+    2. MSSubClass: The building class.
     3. MSZoning: The general zoning classification
     4. LotFrontage: Linear feet of street connected to property
-    5. LotArea: Lot size in square feet
+    5. LotArea: Lot size in square feet.
     6. Street: Type of road access
     7. Alley: Type of alley access
     8. LotShape: General shape of property
