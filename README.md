@@ -20,14 +20,14 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     8. LotShape: General shape of property.
     9. LandContour: Flatness of the property.
     10.Utilities: Type of utilities available.
-    11.LotConfig: Lot configuration
-    12.LandSlope: Slope of property
-    13.Neighbourhood: Physical locations within Ames city limits
-    14.Condition1: Proximity to main road or railroad
+    11.LotConfig: Lot configuration.
+    12.LandSlope: Slope of property.
+    13.Neighbourhood: Physical locations within Ames city limits.
+    14.Condition1: Proximity to main road or railroad.
     15.Condition2: Proximity to main road or railroad (if a second is present)
-    16.BldgType: Type of dwelling
-    17.HouseStyle: Style of dwelling
-    18.OverallQual: Overall material and finish quality
+    16.BldgType: Type of dwelling.
+    17.HouseStyle: Style of dwelling.
+    18.OverallQual: Overall material and finish quality.
     19.OverallCond: Overall condition rating
     20.YearBuilt: Original construction date
     21.YearRemodAdd: Remodel date
