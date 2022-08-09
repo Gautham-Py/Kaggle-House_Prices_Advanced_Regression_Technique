@@ -28,12 +28,12 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     16.BldgType: Type of dwelling.
     17.HouseStyle: Style of dwelling.
     18.OverallQual: Overall material and finish quality.
-    19.OverallCond: Overall condition rating
-    20.YearBuilt: Original construction date
-    21.YearRemodAdd: Remodel date
-    22.RoofStyle: Type of roof
-    23.RoofMatl: Roof material
-    24.Exterior1st: Exterior covering on house
+    19.OverallCond: Overall condition rating.
+    20.YearBuilt: Original construction date.
+    21.YearRemodAdd: Remodel date.
+    22.RoofStyle: Type of roof.
+    23.RoofMatl: Roof material.
+    24.Exterior1st: Exterior covering on house.
     25.Exterior2nd: Exterior covering on house (if more than one material)
     26.MasVnrType: Masonry veneer type
     27.MasVnrArea: Masonry veneer area in square feet
