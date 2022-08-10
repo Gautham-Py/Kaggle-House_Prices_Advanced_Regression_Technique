@@ -68,14 +68,14 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     56.Functional: Home functionality rating.
     57.Fireplaces: Number of fireplaces.
     58.FireplaceQu: Fireplace quality.
-    59.GarageType: Garage location
-    60.GarageYrBlt: Year garage was built
-    61.GarageFinish: Interior finish of the garage
-    62.GarageCars: Size of garage in car capacity
-    63.GarageArea: Size of garage in square feet
-    64.GarageQual: Garage quality
-    65.GarageCond: Garage condition
-    66.PavedDrive: Paved driveway
+    59.GarageType: Garage location.
+    60.GarageYrBlt: Year garage was built.
+    61.GarageFinish: Interior finish of the garage.
+    62.GarageCars: Size of garage in car capacity.
+    63.GarageArea: Size of garage in square feet.
+    64.GarageQual: Garage quality.
+    65.GarageCond: Garage condition.
+    66.PavedDrive: Paved driveway.
     67.WoodDeckSF: Wood deck area in square feet
     68.OpenPorchSF: Open porch area in square feet
     69.EnclosedPorch: Enclosed porch area in square feet
