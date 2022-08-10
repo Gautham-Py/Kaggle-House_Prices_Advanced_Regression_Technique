@@ -76,12 +76,12 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     64.GarageQual: Garage quality.
     65.GarageCond: Garage condition.
     66.PavedDrive: Paved driveway.
-    67.WoodDeckSF: Wood deck area in square feet
-    68.OpenPorchSF: Open porch area in square feet
-    69.EnclosedPorch: Enclosed porch area in square feet
-    70.SsnPorch: Three season porch area in square feet
-    71.ScreenPorch: Screen porch area in square feet
-    72.PoolArea: Pool area in square feet
+    67.WoodDeckSF: Wood deck area in square feet.
+    68.OpenPorchSF: Open porch area in square feet.
+    69.EnclosedPorch: Enclosed porch area in square feet.
+    70.SsnPorch: Three season porch area in square feet.
+    71.ScreenPorch: Screen porch area in square feet.
+    72.PoolArea: Pool area in square feet.
     73.PoolQC: Pool quality
     74.Fence: Fence quality
     75.MiscFeature: Miscellaneous feature not covered in other categories
