@@ -63,11 +63,11 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     51.HalfBath: Half baths above grade.
     52.Bedroom: Number of bedrooms above basement level.
     53.Kitchen: Number of kitchens.
-    54.KitchenQual: Kitchen quality
-    55.TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
-    56.Functional: Home functionality rating
-    57.Fireplaces: Number of fireplaces
-    58.FireplaceQu: Fireplace quality
+    54.KitchenQual: Kitchen quality.
+    55.TotRmsAbvGrd: Total rooms above grade (does not include bathrooms).
+    56.Functional: Home functionality rating.
+    57.Fireplaces: Number of fireplaces.
+    58.FireplaceQu: Fireplace quality.
     59.GarageType: Garage location
     60.GarageYrBlt: Year garage was built
     61.GarageFinish: Interior finish of the garage
