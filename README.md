@@ -46,10 +46,10 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     34.BsmtFinType1: Quality of basement finished area.
     35.BsmtFinSF1: Type 1 finished square feet.
     36.BsmtFinType2: Quality of second finished area (if present).
-    37.BsmtFinSF2: Type 2 finished square feet
-    38.BsmtUnfSF: Unfinished square feet of basement area
-    39.TotalBsmtSF: Total square feet of basement area
-    40.Heating: Type of heating
+    37.BsmtFinSF2: Type 2 finished square feet.
+    38.BsmtUnfSF: Unfinished square feet of basement area.
+    39.TotalBsmtSF: Total square feet of basement area.
+    40.Heating: Type of heating.
     41.HeatingQC: Heating quality and condition
     42.CentralAir: Central air conditioning
     43.Electrical: Electrical system
