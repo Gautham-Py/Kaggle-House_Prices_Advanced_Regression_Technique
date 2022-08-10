@@ -82,14 +82,14 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     70.SsnPorch: Three season porch area in square feet.
     71.ScreenPorch: Screen porch area in square feet.
     72.PoolArea: Pool area in square feet.
-    73.PoolQC: Pool quality
-    74.Fence: Fence quality
-    75.MiscFeature: Miscellaneous feature not covered in other categories
-    76.MiscVal: $Value of miscellaneous feature
-    77.MoSold: Month Sold
-    78.YrSold: Year Sold
-    79.SaleType: Type of sale
-    80.SaleCondition: Condition of sale
+    73.PoolQC: Pool quality.
+    74.Fence: Fence quality.
+    75.MiscFeature: Miscellaneous feature not covered in other categories.
+    76.MiscVal: $Value of miscellaneous feature.
+    77.MoSold: Month Sold.
+    78.YrSold: Year Sold.
+    79.SaleType: Type of sale.
+    80.SaleCondition: Condition of sale.
     
    > Metric
    
