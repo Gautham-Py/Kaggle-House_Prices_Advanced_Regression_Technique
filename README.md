@@ -50,11 +50,11 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     38.BsmtUnfSF: Unfinished square feet of basement area.
     39.TotalBsmtSF: Total square feet of basement area.
     40.Heating: Type of heating.
-    41.HeatingQC: Heating quality and condition
-    42.CentralAir: Central air conditioning
-    43.Electrical: Electrical system
-    44.1stFlrSF: First Floor square feet
-    45.2ndFlrSF: Second floor square feet
+    41.HeatingQC: Heating quality and condition.
+    42.CentralAir: Central air conditioning.
+    43.Electrical: Electrical system.
+    44.1stFlrSF: First Floor square feet.
+    45.2ndFlrSF: Second floor square feet.
     46.LowQualFinSF: Low quality finished square feet (all floors)
     47.GrLivArea: Above grade (ground) living area square feet
     48.BsmtFullBath: Basement full bathrooms
