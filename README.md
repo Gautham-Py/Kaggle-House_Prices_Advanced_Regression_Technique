@@ -55,14 +55,14 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     43.Electrical: Electrical system.
     44.1stFlrSF: First Floor square feet.
     45.2ndFlrSF: Second floor square feet.
-    46.LowQualFinSF: Low quality finished square feet (all floors)
-    47.GrLivArea: Above grade (ground) living area square feet
-    48.BsmtFullBath: Basement full bathrooms
-    49.BsmtHalfBath: Basement half bathrooms
-    50.FullBath: Full bathrooms above grade
-    51.HalfBath: Half baths above grade
-    52.Bedroom: Number of bedrooms above basement level
-    53.Kitchen: Number of kitchens
+    46.LowQualFinSF: Low quality finished square feet (all floors).
+    47.GrLivArea: Above grade (ground) living area square feet.
+    48.BsmtFullBath: Basement full bathrooms.
+    49.BsmtHalfBath: Basement half bathrooms.
+    50.FullBath: Full bathrooms above grade.
+    51.HalfBath: Half baths above grade.
+    52.Bedroom: Number of bedrooms above basement level.
+    53.Kitchen: Number of kitchens.
     54.KitchenQual: Kitchen quality
     55.TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
     56.Functional: Home functionality rating
