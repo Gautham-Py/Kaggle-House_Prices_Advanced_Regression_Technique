@@ -34,9 +34,9 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     22.RoofStyle: Type of roof.
     23.RoofMatl: Roof material.
     24.Exterior1st: Exterior covering on house.
-    25.Exterior2nd: Exterior covering on house (if more than one material)
-    26.MasVnrType: Masonry veneer type
-    27.MasVnrArea: Masonry veneer area in square feet
+    25.Exterior2nd: Exterior covering on house (if more than one material).
+    26.MasVnrType: Masonry veneer type.
+    27.MasVnrArea: Masonry veneer area in square feet.
     28.ExterQual: Exterior material quality
     29.ExterCond: Present condition of the material on the exterior
     30.Foundation: Type of foundation
