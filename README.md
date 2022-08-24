@@ -5,8 +5,8 @@ The Dataset with 79 explanatory variables describing (almost) every aspect of re
 
     1. train.csv - the training set.
     2. test.csv - the test set.
-    3. data_description.txt - full description of each column
-    4. sample_submission.csv - a benchmark submissi.n 
+    3. data_description.txt - full description of each column.
+    4. sample_submission.csv - a benchmark submission.
 
 > Data fields
 
