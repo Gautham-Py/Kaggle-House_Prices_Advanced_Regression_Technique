@@ -85,7 +85,7 @@ The Dataset with 79 explanatory variables describing (almost) every aspect of re
     73.PoolQC: Pool quality.
     74.Fence: Fence quality.
     75.MiscFeature: Miscellaneous feature not covered in other categories.
-    76.MiscVal: $Value of miscellaneous feature.
+    76.MiscVal: Value of miscellaneous feature.
     77.MoSold: Month Sold.
     78.YrSold: Year Sold.
     79.SaleType: Type of sale.
