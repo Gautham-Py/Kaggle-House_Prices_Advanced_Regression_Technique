@@ -8,7 +8,7 @@ The Dataset with 79 explanatory variables describing (almost) every aspect of re
     3. data_description.txt - full description of each column.
     4. sample_submission.csv - a benchmark submission.
 
-> Data fields
+> Data fields: Columns
 
     1. SalePrice - the property's sale price in dollars.(target variable)
     2. MSSubClass: The building class.
