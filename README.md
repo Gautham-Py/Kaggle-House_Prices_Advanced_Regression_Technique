@@ -93,4 +93,4 @@ The Dataset with 79 explanatory variables describing (almost) every aspect of re
     
    > Evaluation Metric
    
-    Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price..
+    Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
