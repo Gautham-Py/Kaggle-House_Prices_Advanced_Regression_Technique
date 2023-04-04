@@ -89,7 +89,7 @@ The Dataset with 79 explanatory variables describing (almost) every aspect of re
     77.MoSold: Month Sold.
     78.YrSold: Year Sold.
     79.SaleType: Type of sale.
-    80.SaleCondition: Condition of sale.
+    80.SaleCondition: Condition of sale..
     
    > Evaluation Metric
    
