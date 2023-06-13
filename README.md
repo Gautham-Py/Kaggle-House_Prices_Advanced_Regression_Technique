@@ -1,7 +1,7 @@
 Kaggle-House_Prices_Advanced_Regression_Technique
 The Dataset with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-> File descriptions:
+> File descriptions
 
     1. train.csv - the training set.
     2. test.csv - the test set.
@@ -91,6 +91,6 @@ The Dataset with 79 explanatory variables describing (almost) every aspect of re
     79.SaleType: Type of sale.
     80.SaleCondition: Condition of sale.
     
-   > Evaluation Metric
+   > Evaluation Metric:
    
     Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
