@@ -91,6 +91,6 @@ The Dataset with 79 explanatory variables describing (almost) every aspect of re
     79.SaleType: Type of sale.
     80.SaleCondition: Condition of sale.
     
-   > Evaluation Metric:
+   > Evaluation Metric
    
     Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
